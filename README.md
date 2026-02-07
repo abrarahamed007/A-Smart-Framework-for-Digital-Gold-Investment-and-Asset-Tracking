@@ -22,6 +22,4 @@ investment and asset tracking using a simple and interactive user interface.
 - Tailwind CSS
 - Conceptual Gemini AI integration
 
-📌 Note
-This project is a prototype and does not perform real financial transactions.
 
